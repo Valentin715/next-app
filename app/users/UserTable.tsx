@@ -25,7 +25,7 @@ const UserTable = async ({ sortOrder }: Props) => {
       <thead>
         <tr>
           <th>
-            <Link href="/users?sortOrder=name">Name</Link>
+            <Link href="/users?sortOrder=name">Name1</Link>
           </th>
           <th>
             <Link href="/users?sortOrder=email">Email</Link>
